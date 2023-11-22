@@ -1,4 +1,4 @@
-package huffman.src.huffman;
+package cs112.huffman.src.huffman;
 
 import java.io.File;
 import java.io.FileInputStream;

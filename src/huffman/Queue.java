@@ -1,4 +1,4 @@
-package huffman.src.huffman;
+package cs112.huffman.src.huffman;
 
 /**
  * This class contains a generic queue class which supports 

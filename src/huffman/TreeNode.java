@@ -1,5 +1,5 @@
 
-package huffman.src.huffman;
+package cs112.huffman.src.huffman;
 
 /**
  * This class represents a node of a huffman coding tree,

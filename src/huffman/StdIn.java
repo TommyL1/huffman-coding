@@ -1,4 +1,4 @@
-package huffman.src.huffman;
+package cs112.huffman.src.huffman;
 /******************************************************************************
  *  Compilation:  javac StdIn.java
  *  Execution:    java StdIn   (interactive test of basic functionality)
